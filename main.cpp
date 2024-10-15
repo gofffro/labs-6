@@ -42,8 +42,7 @@ int main() {
     int b = Random(1, 100);
     int n = Random(1, 20);
     int m = Random(1, 20);
-    
-    
+  
     int G[n];
     int V[m];
     
